@@ -1,0 +1,54 @@
+{
+	"nombre": "Brayan Leonardo Alvarez Reyes",
+	"fechaNacimiento": "18 de Diciembre del 2001",
+	"Resumen": "Soy una persona proactiva y optimista, la cual \nsiempre puedo tomar cualquier control de la \nsituación que se presente.",
+	"telefono": "961-352-5076",
+	"correo":"2005038@utrivieramaya.edu.mx",
+	"ciudad":"Playa del Carmen, Quintana Roo",
+	"puestoSolicitado": "Desarrollador Web Jr" ,
+	"lenguages":[
+		"php",
+		"javascript",
+		"html",
+		"css",
+		"java",
+		"python"
+	],
+	"baseDeDatos":[
+		"Mysql",
+		"Sql Server",
+		"MongoDB",
+		"MariaDB"
+	],
+	"paqueterias":[
+		"excel",
+		"Word",
+		"PowerPoint"
+	],
+	
+	"experienciaLaboral":[
+		{
+			"empresa": "TERARED",
+			"Puesto": "Auxiliar de almancen y Soporte Técnico",
+			"fechaIngreso": "Junio 10, 2020",
+			"fechaTermino": "Diciembre 28 2020",
+			"responsabilidades":[
+						"Inventario",
+						"Solucionar problemas de red",
+						"Capturar información en la DB",
+						"Monitoreo del inventario",
+						"Reparación de modem, router y caja digital",
+						"Test de velociadad en la red e internet"
+			]
+		}
+    ],
+	"educacion":[
+		{
+			"escuela": "Universidad Tecnológica de la Riviera Maya",
+			"gradoEstudio": "Ingeneria",
+			"carrera":"TSU en Tecnología de la Información Área Desarrollo De Software Multiplataforma",
+			"fechaIngreso": "Septiembre del 2020",
+			"fechaTermino": "Diciembre del 2023"
+		}
+	]
+}
