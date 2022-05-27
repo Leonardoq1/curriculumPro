@@ -1,12 +1,20 @@
 # curriculumPro
 
 
-#Vista general
+#Vista general en laptops y tables
 
 
 
 
 [![vista1.png](https://i.postimg.cc/pT8tb8w6/vista1.png)](https://postimg.cc/9RWky4Fd)
+
+
+
+#vista desde un movil (responsive)
+
+
+
+[![image.png](https://i.postimg.cc/nhbjybXF/image.png)](https://postimg.cc/XpLY5PKm)
 
 
 #Vista de los recursos que descarga la red
