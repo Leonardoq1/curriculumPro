@@ -137,7 +137,7 @@ curriculum = `
                 <div class="informacion__contenido">
                     <h4 class="no-margin  subtitulos">Puesto solicitado</h4>
                     <p><span class="informacion__bold">Puesto: </span><span>{puesto}</span></p>
-                    <p><span class="informacion__bold">Puesto: </span><span>Programar senior</span></p>
+                    <p><span class="informacion__bold">Puesto: </span><span>Programardor senior</span></p>
 
                 </div>
             </article>
